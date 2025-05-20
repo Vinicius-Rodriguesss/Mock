@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "title": "produto exemplo 1",
+    "description": "descrição detalhada do produto exemplo número 1 com benefícios e especificações.",
+    "category": "viagem",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 2,
+    "title": "produto exemplo 2",
+    "description": "descrição detalhada do produto exemplo número 2 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 3,
+    "title": "produto exemplo 3",
+    "description": "descrição detalhada do produto exemplo número 3 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 4,
+    "title": "produto exemplo 4",
+    "description": "descrição detalhada do produto exemplo número 4 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 5,
+    "title": "produto exemplo 5",
+    "description": "descrição detalhada do produto exemplo número 5 com benefícios e especificações.",
+    "category": "games",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 6,
+    "title": "produto exemplo 6",
+    "description": "descrição detalhada do produto exemplo número 6 com benefícios e especificações.",
+    "category": "casa",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 7,
+    "title": "produto exemplo 7",
+    "description": "descrição detalhada do produto exemplo número 7 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 8,
+    "title": "produto exemplo 8",
+    "description": "descrição detalhada do produto exemplo número 8 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 9,
+    "title": "produto exemplo 9",
+    "description": "descrição detalhada do produto exemplo número 9 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1606813902934-08d8e6b44d66"
+  },
+  {
+    "id": 10,
+    "title": "produto exemplo 10",
+    "description": "descrição detalhada do produto exemplo número 10 com benefícios e especificações.",
+    "category": "games",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 11,
+    "title": "produto exemplo 11",
+    "description": "descrição detalhada do produto exemplo número 11 com benefícios e especificações.",
+    "category": "games",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 12,
+    "title": "produto exemplo 12",
+    "description": "descrição detalhada do produto exemplo número 12 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 13,
+    "title": "produto exemplo 13",
+    "description": "descrição detalhada do produto exemplo número 13 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 14,
+    "title": "produto exemplo 14",
+    "description": "descrição detalhada do produto exemplo número 14 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 15,
+    "title": "produto exemplo 15",
+    "description": "descrição detalhada do produto exemplo número 15 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 16,
+    "title": "produto exemplo 16",
+    "description": "descrição detalhada do produto exemplo número 16 com benefícios e especificações.",
+    "category": "jardinagem",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 17,
+    "title": "produto exemplo 17",
+    "description": "descrição detalhada do produto exemplo número 17 com benefícios e especificações.",
+    "category": "jardinagem",
+    "image": "https://images.unsplash.com/photo-1606812651142-63e6b1c6b902"
+  },
+  {
+    "id": 18,
+    "title": "produto exemplo 18",
+    "description": "descrição detalhada do produto exemplo número 18 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 19,
+    "title": "produto exemplo 19",
+    "description": "descrição detalhada do produto exemplo número 19 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1606812651142-63e6b1c6b902"
+  },
+  {
+    "id": 20,
+    "title": "produto exemplo 20",
+    "description": "descrição detalhada do produto exemplo número 20 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 21,
+    "title": "produto exemplo 21",
+    "description": "descrição detalhada do produto exemplo número 21 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 22,
+    "title": "produto exemplo 22",
+    "description": "descrição detalhada do produto exemplo número 22 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 23,
+    "title": "produto exemplo 23",
+    "description": "descrição detalhada do produto exemplo número 23 com benefícios e especificações.",
+    "category": "fitness",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 24,
+    "title": "produto exemplo 24",
+    "description": "descrição detalhada do produto exemplo número 24 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 25,
+    "title": "produto exemplo 25",
+    "description": "descrição detalhada do produto exemplo número 25 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 26,
+    "title": "produto exemplo 26",
+    "description": "descrição detalhada do produto exemplo número 26 com benefícios e especificações.",
+    "category": "moda",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 27,
+    "title": "produto exemplo 27",
+    "description": "descrição detalhada do produto exemplo número 27 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 28,
+    "title": "produto exemplo 28",
+    "description": "descrição detalhada do produto exemplo número 28 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 29,
+    "title": "produto exemplo 29",
+    "description": "descrição detalhada do produto exemplo número 29 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 30,
+    "title": "produto exemplo 30",
+    "description": "descrição detalhada do produto exemplo número 30 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1606813902934-08d8e6b44d66"
+  },
+  {
+    "id": 31,
+    "title": "produto exemplo 31",
+    "description": "descrição detalhada do produto exemplo número 31 com benefícios e especificações.",
+    "category": "casa",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 32,
+    "title": "produto exemplo 32",
+    "description": "descrição detalhada do produto exemplo número 32 com benefícios e especificações.",
+    "category": "casa",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 33,
+    "title": "produto exemplo 33",
+    "description": "descrição detalhada do produto exemplo número 33 com benefícios e especificações.",
+    "category": "casa",
+    "image": "https://images.unsplash.com/photo-1606812651142-63e6b1c6b902"
+  },
+  {
+    "id": 34,
+    "title": "produto exemplo 34",
+    "description": "descrição detalhada do produto exemplo número 34 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 35,
+    "title": "produto exemplo 35",
+    "description": "descrição detalhada do produto exemplo número 35 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 36,
+    "title": "produto exemplo 36",
+    "description": "descrição detalhada do produto exemplo número 36 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 37,
+    "title": "produto exemplo 37",
+    "description": "descrição detalhada do produto exemplo número 37 com benefícios e especificações.",
+    "category": "viagem",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 38,
+    "title": "produto exemplo 38",
+    "description": "descrição detalhada do produto exemplo número 38 com benefícios e especificações.",
+    "category": "fotografia",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 39,
+    "title": "produto exemplo 39",
+    "description": "descrição detalhada do produto exemplo número 39 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 40,
+    "title": "produto exemplo 40",
+    "description": "descrição detalhada do produto exemplo número 40 com benefícios e especificações.",
+    "category": "jardinagem",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 41,
+    "title": "produto exemplo 41",
+    "description": "descrição detalhada do produto exemplo número 41 com benefícios e especificações.",
+    "category": "fotografia",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 42,
+    "title": "produto exemplo 42",
+    "description": "descrição detalhada do produto exemplo número 42 com benefícios e especificações.",
+    "category": "viagem",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 43,
+    "title": "produto exemplo 43",
+    "description": "descrição detalhada do produto exemplo número 43 com benefícios e especificações.",
+    "category": "moda",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 44,
+    "title": "produto exemplo 44",
+    "description": "descrição detalhada do produto exemplo número 44 com benefícios e especificações.",
+    "category": "moda",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 45,
+    "title": "produto exemplo 45",
+    "description": "descrição detalhada do produto exemplo número 45 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 46,
+    "title": "produto exemplo 46",
+    "description": "descrição detalhada do produto exemplo número 46 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 47,
+    "title": "produto exemplo 47",
+    "description": "descrição detalhada do produto exemplo número 47 com benefícios e especificações.",
+    "category": "moda",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 48,
+    "title": "produto exemplo 48",
+    "description": "descrição detalhada do produto exemplo número 48 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 49,
+    "title": "produto exemplo 49",
+    "description": "descrição detalhada do produto exemplo número 49 com benefícios e especificações.",
+    "category": "fotografia",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 50,
+    "title": "produto exemplo 50",
+    "description": "descrição detalhada do produto exemplo número 50 com benefícios e especificações.",
+    "category": "fitness",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 51,
+    "title": "produto exemplo 51",
+    "description": "descrição detalhada do produto exemplo número 51 com benefícios e especificações.",
+    "category": "cozinha",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 52,
+    "title": "produto exemplo 52",
+    "description": "descrição detalhada do produto exemplo número 52 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 53,
+    "title": "produto exemplo 53",
+    "description": "descrição detalhada do produto exemplo número 53 com benefícios e especificações.",
+    "category": "games",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 54,
+    "title": "produto exemplo 54",
+    "description": "descrição detalhada do produto exemplo número 54 com benefícios e especificações.",
+    "category": "viagem",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 55,
+    "title": "produto exemplo 55",
+    "description": "descrição detalhada do produto exemplo número 55 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 56,
+    "title": "produto exemplo 56",
+    "description": "descrição detalhada do produto exemplo número 56 com benefícios e especificações.",
+    "category": "cozinha",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 57,
+    "title": "produto exemplo 57",
+    "description": "descrição detalhada do produto exemplo número 57 com benefícios e especificações.",
+    "category": "moda",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 58,
+    "title": "produto exemplo 58",
+    "description": "descrição detalhada do produto exemplo número 58 com benefícios e especificações.",
+    "category": "viagem",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 59,
+    "title": "produto exemplo 59",
+    "description": "descrição detalhada do produto exemplo número 59 com benefícios e especificações.",
+    "category": "cozinha",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 60,
+    "title": "produto exemplo 60",
+    "description": "descrição detalhada do produto exemplo número 60 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 61,
+    "title": "produto exemplo 61",
+    "description": "descrição detalhada do produto exemplo número 61 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 62,
+    "title": "produto exemplo 62",
+    "description": "descrição detalhada do produto exemplo número 62 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 63,
+    "title": "produto exemplo 63",
+    "description": "descrição detalhada do produto exemplo número 63 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 64,
+    "title": "produto exemplo 64",
+    "description": "descrição detalhada do produto exemplo número 64 com benefícios e especificações.",
+    "category": "cozinha",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 65,
+    "title": "produto exemplo 65",
+    "description": "descrição detalhada do produto exemplo número 65 com benefícios e especificações.",
+    "category": "viagem",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 66,
+    "title": "produto exemplo 66",
+    "description": "descrição detalhada do produto exemplo número 66 com benefícios e especificações.",
+    "category": "fotografia",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 67,
+    "title": "produto exemplo 67",
+    "description": "descrição detalhada do produto exemplo número 67 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 68,
+    "title": "produto exemplo 68",
+    "description": "descrição detalhada do produto exemplo número 68 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 69,
+    "title": "produto exemplo 69",
+    "description": "descrição detalhada do produto exemplo número 69 com benefícios e especificações.",
+    "category": "fotografia",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 70,
+    "title": "produto exemplo 70",
+    "description": "descrição detalhada do produto exemplo número 70 com benefícios e especificações.",
+    "category": "casa",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 71,
+    "title": "produto exemplo 71",
+    "description": "descrição detalhada do produto exemplo número 71 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1606812651142-63e6b1c6b902"
+  },
+  {
+    "id": 72,
+    "title": "produto exemplo 72",
+    "description": "descrição detalhada do produto exemplo número 72 com benefícios e especificações.",
+    "category": "games",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 73,
+    "title": "produto exemplo 73",
+    "description": "descrição detalhada do produto exemplo número 73 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 74,
+    "title": "produto exemplo 74",
+    "description": "descrição detalhada do produto exemplo número 74 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 75,
+    "title": "produto exemplo 75",
+    "description": "descrição detalhada do produto exemplo número 75 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 76,
+    "title": "produto exemplo 76",
+    "description": "descrição detalhada do produto exemplo número 76 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 77,
+    "title": "produto exemplo 77",
+    "description": "descrição detalhada do produto exemplo número 77 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 78,
+    "title": "produto exemplo 78",
+    "description": "descrição detalhada do produto exemplo número 78 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 79,
+    "title": "produto exemplo 79",
+    "description": "descrição detalhada do produto exemplo número 79 com benefícios e especificações.",
+    "category": "casa",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 80,
+    "title": "produto exemplo 80",
+    "description": "descrição detalhada do produto exemplo número 80 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 81,
+    "title": "produto exemplo 81",
+    "description": "descrição detalhada do produto exemplo número 81 com benefícios e especificações.",
+    "category": "fitness",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 82,
+    "title": "produto exemplo 82",
+    "description": "descrição detalhada do produto exemplo número 82 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1606813902934-08d8e6b44d66"
+  },
+  {
+    "id": 83,
+    "title": "produto exemplo 83",
+    "description": "descrição detalhada do produto exemplo número 83 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 84,
+    "title": "produto exemplo 84",
+    "description": "descrição detalhada do produto exemplo número 84 com benefícios e especificações.",
+    "category": "casa",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 85,
+    "title": "produto exemplo 85",
+    "description": "descrição detalhada do produto exemplo número 85 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb9"
+  },
+  {
+    "id": 86,
+    "title": "produto exemplo 86",
+    "description": "descrição detalhada do produto exemplo número 86 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 87,
+    "title": "produto exemplo 87",
+    "description": "descrição detalhada do produto exemplo número 87 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 88,
+    "title": "produto exemplo 88",
+    "description": "descrição detalhada do produto exemplo número 88 com benefícios e especificações.",
+    "category": "fotografia",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 89,
+    "title": "produto exemplo 89",
+    "description": "descrição detalhada do produto exemplo número 89 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 90,
+    "title": "produto exemplo 90",
+    "description": "descrição detalhada do produto exemplo número 90 com benefícios e especificações.",
+    "category": "esporte",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 91,
+    "title": "produto exemplo 91",
+    "description": "descrição detalhada do produto exemplo número 91 com benefícios e especificações.",
+    "category": "cozinha",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 92,
+    "title": "produto exemplo 92",
+    "description": "descrição detalhada do produto exemplo número 92 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 93,
+    "title": "produto exemplo 93",
+    "description": "descrição detalhada do produto exemplo número 93 com benefícios e especificações.",
+    "category": "beleza",
+    "image": "https://images.unsplash.com/photo-1606813902934-08d8e6b44d66"
+  },
+  {
+    "id": 94,
+    "title": "produto exemplo 94",
+    "description": "descrição detalhada do produto exemplo número 94 com benefícios e especificações.",
+    "category": "viagem",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 95,
+    "title": "produto exemplo 95",
+    "description": "descrição detalhada do produto exemplo número 95 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 96,
+    "title": "produto exemplo 96",
+    "description": "descrição detalhada do produto exemplo número 96 com benefícios e especificações.",
+    "category": "livros",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 97,
+    "title": "produto exemplo 97",
+    "description": "descrição detalhada do produto exemplo número 97 com benefícios e especificações.",
+    "category": "fitness",
+    "image": "https://images.unsplash.com/photo-1600180758890-6f2a444fbba4"
+  },
+  {
+    "id": 98,
+    "title": "produto exemplo 98",
+    "description": "descrição detalhada do produto exemplo número 98 com benefícios e especificações.",
+    "category": "decoração",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 99,
+    "title": "produto exemplo 99",
+    "description": "descrição detalhada do produto exemplo número 99 com benefícios e especificações.",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1580894894513-e83ba273d7c2"
+  },
+  {
+    "id": 100,
+    "title": "produto exemplo 100",
+    "description": "descrição detalhada do produto exemplo número 100 com benefícios e especificações.",
+    "category": "automotivo",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  }
+]
